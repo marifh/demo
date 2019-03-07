@@ -1,14 +1,41 @@
 [
     {
-      "name": "Bhinav Kumar",
-      "designation": "Developer",
-      "designation": "Mumbai",
-      "profileImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3MrviZtU8cwjAtzyRjbDLjw6WRo-xGODfdor0GC-TrJl6WV5"
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "address": {
+      "street": "Kulas Light",
+      "suite": "Apt. 556",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
     },
-    {
-      "name": "Arun Kumar",
-      "designation": "FE",
-      "designation": "Saudi",
-      "profileImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3MrviZtU8cwjAtzyRjbDLjw6WRo-xGODfdor0GC-TrJl6WV5"
+    "phone": "1-770-736-8031 x56442",
+    "website": "hildegard.org",
+    "company": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
     }
+  },
+    
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "address": {
+      "street": "Victor Plains",
+      "suite": "Suite 879",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771",
+      "geo": {
+        "lat": "-43.9509",
+        "lng": "-34.4618"
+      }
+    },
 ]
